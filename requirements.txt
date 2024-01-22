@@ -4,3 +4,4 @@ matplotlib
 seaborn
 tensorflow
 streamlit
+sklearn.ensemble._gb_losses
