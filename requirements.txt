@@ -1,9 +1,8 @@
-scikit-learn==1.4
+scikit-learn
 pandas
 matplotlib
 seaborn
 tensorflow
 streamlit
-sklearn.ensemble._gb_losses
-mlxtend
-cvxopt
+
+
